@@ -1,5 +1,5 @@
 # Description
-Simple tool to extract icons from a .exe file.
+Simple script to extract icons from a .exe file.
 
 
 # Credits
